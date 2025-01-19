@@ -1,0 +1,14 @@
+./flicker8k_Dataset
+Flickr8k.lemma.token.txt,
+image_captioning.ipynb,
+Flickr_8k.testImages.txt,
+Sentiment_Analyser.ipynb,
+Review_Classifier.ipynb,
+Generator.ipynb,
+Flickr8k.token.txt,
+readme.txt,
+Flickr_8k.trainImages.txt,
+CrowdFlowerAnnotations.txt,
+Summarizer.ipynb,
+ExpertAnnotations.txt,
+Flickr_8k.devImages.txt.
