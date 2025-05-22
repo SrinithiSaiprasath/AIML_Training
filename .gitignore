@@ -12,3 +12,6 @@ CrowdFlowerAnnotations.txt,
 Summarizer.ipynb,
 ExpertAnnotations.txt,
 Flickr_8k.devImages.txt.
+Data
+.venv 
+__pycahce__

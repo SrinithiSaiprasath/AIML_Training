@@ -1,20 +1,40 @@
-pycocotools~=2.0.4
-matplotlib~=3.5.2
+# Core ML and DL libraries
+tensorflow>=2.15.0
+keras>=2.15.0
+jax
+jaxlib
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+
+# Computer Vision
+pycocotools
+opencv-python
 scikit-image
-torch~=1.8.1
-nltk~=3.7
-torchvision~=0.9.1
-numpy~=1.21.6
-pillow~=9.1.1
-tqdm~=4.64.0
-opencv-python==4.6.0.66
-gradio==3.1.1
-googletrans==4.0.0-rc1
+pillow
+
+# NLP Libraries
+transformers
+nltk
 textblob
 langdetect
-nltk
-transformers
-pytextrank
+googletrans
 spacy
-tensorflow
-pandas
+pytextrank
+
+# Visualization
+matplotlib
+seaborn
+
+# Progress bar
+tqdm~=4.64.0
+
+# Web UI
+streamlit
+gradio==3.1.1
+
+# Note: spaCy model required
+# Run after install:
+# python -m spacy download en_core_web_lg
